@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace MyLibrary
 {
-    public class Movement : MonoBehaviour
+    public class Movement
     {
         public Vector3 PlayerMove()
         {
